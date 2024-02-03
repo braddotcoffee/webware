@@ -451,7 +451,7 @@ Head over to [github.com](https://github.com) and make an account. Once you have
 
 ### Make an empty repository
 
-With an entirely fresh account, your GitHub landing page may look slgihtly different than mine. On the top left, find the green "New" button to create a new repository (or head over to [github.com/new](https://github.com/new))
+With an entirely fresh account, your GitHub landing page may look slightly different than mine. On the top left, find the green "New" button to create a new repository (or head over to [github.com/new](https://github.com/new))
 ![New Repository Button](./static/NewRepository.png)
 
 Name this repository "git-tutorial" and mark it as Private. Leave all other fields blank and click "Create Repository" at the bottom.
