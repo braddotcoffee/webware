@@ -101,7 +101,9 @@ There are many reasons that we may see this code change. A commit allows us to d
 ```
 Verify user is logged in before retrieving notes
 
-The user.get_notes() method assumes that a user is logged in. If the method is called on a user who is logged out, an exception is thrown. A user who is not logged in should simply see no notes.
+The user.get_notes() method assumes that a user is logged in.
+If the method is called on a user who is logged out, an exception is thrown.
+A user who is not logged in should simply see no notes.
 ```
 
 When working on more complex projects and collaborating with other engineers, this ability to attach meaning to your code changes is **extremely powerful**.
