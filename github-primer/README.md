@@ -262,7 +262,7 @@ $ git commit -m "Update print statement"
  1 file changed, 1 insertion(+), 1 deletion(-)
 ```
 
-Now let's say that we want to **temporarily view** what our codebase looked like at the point of our first commit. It's time to `checkout` that commit.
+Now let's say that we want to **temporarily view** what our codebase looked like at the point of our first commit. Think of this as viewing a "snapshot" of our codebase after that commit occurred - similar to opening `EnglishEssay_FINAL.pdf`. It's time to `checkout` that commit.
 
 We'll start by finding our commit ID using `git log`. This command will list our commits back to us, most recent commit first.
 
